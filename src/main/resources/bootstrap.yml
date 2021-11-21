@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/David110690/BOOTCAMPN1
+          uri: https://github.com/David110690/BOOTCAMPNTTDATA
           searchPaths: config-data
-          cloneOnStart: false
+          cloneOnStart: true
